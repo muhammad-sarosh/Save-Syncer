@@ -52,7 +52,6 @@ Choose sync direction: 1
 
 * Python 3.7 or newer (standard library only, no external dependencies)
 * Works on Windows, Linux, or WSL
-* yt_dlp library
 
 ### 2. Installation
 
